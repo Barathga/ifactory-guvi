@@ -1,0 +1,158 @@
+.h
+{
+margin-top: -1em;
+width: 10em;
+}
+.total1
+{
+background-color: #201627;
+padding-top: 60px;
+transform: translateY(44px);
+border-radius: 50px 50px 0px 0px;
+}
+.div1
+{
+    background-color: #201627;
+    border-style: dotted;
+    letter-spacing: 3px;
+    background-repeat: no-repeat;
+    border-bottom: none;
+}
+.total2
+{
+background-color: #EBE0D8;
+transform: skewY(-4deg);
+background-color: #ee5522;
+background-color: #E8DFD6;       
+}
+.div2
+{
+    background-color: #EBE0D8;
+    opacity:inherit;
+    border-style: dotted;
+    border-bottom: none;
+    border-top: none; 
+    background-color: #ee5522;
+    background-color: #E8DFD6;   
+}
+.total3
+{
+    background-color: #1A1322;
+    transform: skewY(-4deg)
+}
+.div3
+{
+    background-color: #1A1322;
+    border-style: dotted;
+    border-bottom: none;
+    border-top: none;
+    background-color: #17101D;
+}
+.total4
+{
+    background-color: #F9CDC4;
+    transform: skewY(-4deg);
+    background-color: #F7CCC5;
+}
+.div4
+{
+    background-color: #F9CDC4;
+    border-style: dotted;
+    border-bottom: none;
+    border-top: none;
+    background-color: #F7CCC5;
+}
+.total5
+{
+    background-color: #F2A4B6;
+    transform: skewY(-4deg);
+    background-color: #F2A2B5;
+}
+.div5
+{
+    background-color: #F2A4B6;
+    border-style: dotted;
+    border-bottom: none;
+    border-top: none;
+    background-color: #F2A2B5;
+}
+.total6
+{
+    background-color: #BCC5C8;
+    transform: skewY(-4deg);
+    background-color: #B8C1C7;
+}
+.div6
+{
+    background-color: #BCC5C8;
+    border-style: dotted;
+    border-bottom: none;
+    border-top: none;
+    background-color: #B8C1C7;
+}
+.total7_1
+{
+    background-color: #201627;
+    transform: skewY(-4deg);
+    background-color: #cc5577;
+}
+.div71
+{
+    background-color: #201627;
+    border-style: dotted;
+    border-bottom: none;
+    border-top: none;
+    background-color: #cc5577;
+}
+.total7
+{
+    background-color: #F2A4B6;
+    transform: skewY(-4deg);
+    background-color: #F8C3CA;
+}
+.div7
+{
+    background-color: #F2A4B6;
+    border-style: dotted;
+    border-bottom: none;
+    border-top: none;
+    background-color: #F8C3CA;
+}
+.total8
+{
+    background-color: #FEE4CD;
+    transform: skewY(-4deg);
+    background-color: #F2A3B6;
+}
+.div8
+{
+    background-color: #FEE4CD;
+    border-style: dotted;
+    border-bottom: none;
+    border-top: none;
+    background-color: #F2A3B6;
+}
+.total9
+{
+    background-color: #DBDCDE;
+    transform: translateY(-100px);
+}
+.div9
+{
+    background-color: #DBDCDE;
+}
+.div99
+{
+    transform: translateY(-0px);
+}
+.entire
+{
+    border-style: solid;
+    border-top: none;
+    transform: translateY(-100px);
+    padding-top: 70px;
+}
+
+
+
+    
